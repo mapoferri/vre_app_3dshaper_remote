@@ -1,0 +1,11 @@
+working_dir_path: 3dshaper_workflow
+can_write_console_log: False
+run_md: true
+
+step1_iteration:
+  paths:
+    input1_mesh_path: '/home/bscuser/Escritorio/biobbs/biobb_3dshaper/inp1/'
+    input2_mesh_path: '/home/bscuser/Escritorio/biobbs/biobb_3dshaper/inp2/'
+    output_mesh_path: 'weights'
+  properties:
+    device: cpu

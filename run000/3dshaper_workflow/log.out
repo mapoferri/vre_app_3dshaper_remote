@@ -1,0 +1,11 @@
+13:47:47 step1_iteration: paths and prop {'path': '/home/bscuser/Escritorio/biobbs/biobb_3dshaper/run000/3dshaper_workflow/step1_iteration', 'step': 'step1_iteration', 'prefix': '', 'global_log': <Logger /home/bscuser/Escritorio/biobbs/biobb_3dshaper/run000/3dshaper_workflow/log.out (INFO)>, 'system': None, 'working_dir_path': '/home/bscuser/Escritorio/biobbs/biobb_3dshaper/run000/3dshaper_workflow', 'can_write_console_log': False, 'restart': False, 'remove_tmp': True, 'device': 'cpu'} 
+13:47:47 step1_iteration: Running Simulation Model with PyTorch3D
+13:47:47     Executing biobb_3dshaper.dshaper.parsesai Version: 1.0.0
+14:14:23 
+14:14:23 
+14:14:23 Execution successful: 
+14:14:23   Workflow_path: /home/bscuser/Escritorio/biobbs/biobb_3dshaper/run000/3dshaper_workflow
+14:14:23   Config File: /home/bscuser/Escritorio/biobbs/biobb_3dshaper/workflow.yml
+14:14:23 
+14:14:23 Elapsed time: 26.6 minutes
+14:14:23 

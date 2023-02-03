@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+biobb_3dshaper/__init__.py
+biobb_3dshaper.egg-info/PKG-INFO
+biobb_3dshaper.egg-info/SOURCES.txt
+biobb_3dshaper.egg-info/dependency_links.txt
+biobb_3dshaper.egg-info/requires.txt
+biobb_3dshaper.egg-info/top_level.txt
+biobb_3dshaper/dshaper/__init__.py
+biobb_3dshaper/dshaper/model.py
+biobb_3dshaper/dshaper/parsesai.py
+biobb_3dshaper/test/__init__.py

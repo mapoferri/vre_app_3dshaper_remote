@@ -1,0 +1,49 @@
+{
+    "input_files": [
+        {
+            "name": "job_config",
+            "value": "unique_file_id_5e14abe0a37012.29503907",
+            "required": true,
+            "allow_multiple": false
+        }
+    ],
+    "arguments": [
+        {
+            "name": "execution",
+            "value": "run000"
+        },
+        {
+            "name": "project",
+            "value": "example"
+        },
+        {
+            "name": "description",
+            "value": "test"
+        },
+        {
+            "name": "launcher",
+            "value": "remote"
+        },
+        {
+            "name": "step1_iteration:device",
+            "value": "cpu"
+        }
+
+],
+    "output_files": [
+        {
+            "name": "weights",
+            "required": true,
+            "allow_multiple": false,
+            "file": {
+                "file_type": "txt",
+                "data_type": "3d_structure",
+                "meta_data": {
+                    "visible": true,
+                    "description": "Result of tool application example"
+                }
+            }
+        }
+    ]
+}
+           

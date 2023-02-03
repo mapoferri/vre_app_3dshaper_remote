@@ -1,0 +1,6 @@
+template:
+  paths:
+    input_meshes_path: '/media/snatarajan/data/2023/MySpine/shapes/vert_obj/L1/'
+    output_meshes_path: '/home/snatarajan/shapes_registration/2023/Transformed_OBJ_single/'
+  properties:
+    device: 'cpu'
