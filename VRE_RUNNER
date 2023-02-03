@@ -38,11 +38,11 @@ done
 
 #source /opt/conda/etc/profile.d/conda.sh
 
-source /home/bscuser/anaconda3/etc/profile.d/conda.sh
+#source /home/bscuser/anaconda3/etc/profile.d/conda.sh
 echo "${BASEDIR}"
 
 #conda env create -f  "${BASEDIR}"/environment.yml
-conda activate 3dshaper
+#conda activate 3dshaper
 
 
 
