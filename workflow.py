@@ -33,7 +33,8 @@ def prep_output(destination, source):
     #if weights dir not created, created it
     weights_dir = os.path.join(wdir, destination)
     if not os.path.isdir(weights_dir):
-        os.mkdir(weights_dir)
+        #os.mkdir(weights_dir)
+        print ('OK')
     #print (wdir, source, destination)
     print (wdir, weights_dir)
     print (source)
