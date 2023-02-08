@@ -58,7 +58,7 @@ def main(args):
     global_log.info("step1_iteration: Running Simulation Model with PyTorch3D")
     parsesai.registration(**global_paths["step1_iteration"], properties=global_prop["step1_iteration"])
 
-    prep_output(args.output_mesh_path, global_paths["step4_call_guild"]["output_path"])
+    prep_output(args.output_mesh_path, global_paths["step1_iteration"]["output_mesh_path"])
     elapsed_time = time.time() - start_time
     global_log.info('')
     global_log.info('')
