@@ -2,11 +2,6 @@ LICENSE
 README.md
 VRE_RUNNER.py
 setup.py
-biobb_3dshaper/__init__.py
-biobb_3dshaper/dshaper/__init__.py
-biobb_3dshaper/dshaper/model.py
-biobb_3dshaper/dshaper/parsesai.py
-biobb_3dshaper/test/__init__.py
 tool/VRE_Tool.py
 tool/__init__.py
 vre_template_tool.egg-info/PKG-INFO

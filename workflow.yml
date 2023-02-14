@@ -4,8 +4,8 @@ run_md: true
 
 step1_iteration:
   paths:
-    input1_mesh_path: '/home/vre_app_3dshaper/inp1/'
-    input2_mesh_path: '/home/vre_app_3dshaper/inp2/'
+    input1_mesh_path: '/home/bscuser/Escritorio/biobbs/vre_adaptation/vre_app_3dshaper/inp1/'
+    input2_mesh_path: '/home/bscuser/Escritorio/biobbs/vre_adaptation/vre_app_3dshaper/inp2/'
     output_mesh_path: 'weights'
   properties:
     device: cpu

@@ -5,6 +5,12 @@
             "value": "unique_file_id_5e14abe0a37012.29503907",
             "required": true,
             "allow_multiple": false
+        },
+	{
+            "name": "private_key",
+            "value": "unique_file_id_5e14abe0a37012.29503908",
+            "required": true,
+            "allow_multiple": false
         }
     ],
     "arguments": [
